@@ -16,6 +16,11 @@
         <value>alfresco/module/${project.artifactId}/model/workflow-model.xml</value>
       </list>
     </property>
+    <property name="labels">
+      <list>
+        <value>alfresco/module/${project.artifactId}/messages/scModel</value>
+      </list>
+    </property>    
   </bean>
 
 </beans>
