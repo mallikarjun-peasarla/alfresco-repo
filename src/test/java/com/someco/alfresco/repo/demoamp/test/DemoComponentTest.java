@@ -1,9 +1,9 @@
-package io.cotiviti.alfresco.repo.demoamp.test;
+package com.someco.alfresco.repo.demoamp.test;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
 
-import io.cotiviti.alfresco.repo.demoamp.DemoComponent;
+import com.someco.alfresco.repo.demoamp.DemoComponent;
 import org.alfresco.model.ContentModel;
 import org.alfresco.repo.security.authentication.AuthenticationUtil;
 import org.alfresco.service.cmr.repository.NodeRef;

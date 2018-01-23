@@ -1,4 +1,4 @@
-package io.cotiviti.alfresco.repo.action.executor;
+package com.someco.alfresco.repo.action.executor;
 
 import java.io.Serializable;
 import java.util.Date;
@@ -14,7 +14,7 @@ import org.alfresco.service.cmr.repository.NodeRef;
 import org.alfresco.service.cmr.repository.NodeService;
 import org.alfresco.service.namespace.QName;
 
-import io.cotiviti.alfresco.repo.common.SomeCoModel;
+import com.someco.alfresco.repo.common.SomeCoModel;
 
 public class SetWebFlag extends ActionExecuterAbstractBase {
 

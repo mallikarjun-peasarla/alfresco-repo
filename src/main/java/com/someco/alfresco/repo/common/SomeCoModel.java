@@ -1,4 +1,4 @@
-package io.cotiviti.alfresco.repo.common;
+package com.someco.alfresco.repo.common;
 
 import org.alfresco.service.namespace.QName;
 

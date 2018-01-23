@@ -2,7 +2,7 @@
 <!DOCTYPE beans PUBLIC '-//SPRING//DTD BEAN//EN'
 'http://www.springframework.org/dtd/spring-beans.dtd'>
 <beans>
-  <bean id="set-web-flag" class="io.cotiviti.alfresco.repo.action.executor.SetWebFlag"
+  <bean id="set-web-flag" class="com.someco.alfresco.repo.action.executor.SetWebFlag"
     parent="action-executer">
     <property name="nodeService" ref="NodeService" />
     <property name="publicAction">

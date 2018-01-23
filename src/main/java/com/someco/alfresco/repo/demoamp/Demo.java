@@ -1,4 +1,4 @@
-package io.cotiviti.alfresco.repo.demoamp;
+package com.someco.alfresco.repo.demoamp;
 
 /**
  * This class does nothing except dump some output to <i>system.out</i>.
