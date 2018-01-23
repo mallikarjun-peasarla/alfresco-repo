@@ -87,7 +87,14 @@
       <type name="sc:legalDoc">
         <title>Someco Legal Document</title>
         <parent>sc:doc</parent>
-      </type>    
+      </type>
+      <type name="sc:hrPolicy">
+        <title>Someco HR Policy</title>
+        <parent>sc:hrDoc</parent>
+        <mandatory-aspects>
+          <aspect>cm:replaceable</aspect>
+        </mandatory-aspects>
+      </type>
   </types>
   
   <aspects>
